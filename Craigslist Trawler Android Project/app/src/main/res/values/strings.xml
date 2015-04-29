@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Project</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="selectableCities">
+        <item>Santa Cruz</item>
+        <item>San Francisco</item>
+        <item>South Bay</item>
+    </string-array>
+
+    <string-array name="selectablejobs">
+        <item>Web Design</item>
+        <item>Software Development</item>
+        <item>Free Stuff</item>
+    </string-array>
+
+    <string-array name="cityCodes">
+        <item>scz</item>
+        <item>sfc</item>
+        <item>sby</item>
+    </string-array>
+
+    <string-array name="jobCodes">
+        <item>Web Design</item>
+        <item>Software Development</item>
+        <item>Free Stuff</item>
+    </string-array>
+
+
+    <string name="title_activity_results">results</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="results">Results</string>
+    <string name="searchButtonText">Search</string>
+    <string name="empty" />
+    <string name="datePosted">Date Posted</string>
+    <string name="titleTVText">Title</string>
+    <string name="payTVText">Pay</string>
+
+
+</resources>
